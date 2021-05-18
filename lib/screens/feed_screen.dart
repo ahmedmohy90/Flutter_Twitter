@@ -47,7 +47,7 @@ class _FeedScreenState extends State<FeedScreen> {
         BottomNavigationBarItem(icon: Icon(Icons.home,), title: Text('Home')),
         BottomNavigationBarItem(icon: Icon(Icons.search),title: Text('Search')),
         BottomNavigationBarItem(icon: Icon(Icons.notifications), title: Text('Notification')),
-        BottomNavigationBarItem(icon: Icon(Icons.person), title: Text('Person')),
+        BottomNavigationBarItem(icon: Icon(Icons.person), title: Text('Profile')),
         
       ],  
       ),
